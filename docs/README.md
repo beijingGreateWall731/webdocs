@@ -76,5 +76,3 @@ const onePlusTwoPlusThress = {{1 + 2 + 3}}
 ![图片](/imgs/44.png)
 ```
 ![图片](/imgs/44.png)
-# 测试
-## 测试持续集成 自动化部署
