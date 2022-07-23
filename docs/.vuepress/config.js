@@ -122,6 +122,11 @@ module.exports = {
         }
       ]
     },
-    editLinkText: "在Github上 编辑此页"
+    editLinkText: "在Github上 编辑此页",
+    docsRepo: 'https://github.com/beijingGreateWall731/webdocs',
+    docsBranch: 'main',
+    docsDir: 'docs',
+    editLinkPattern: ':repo/-/edit/:branch/:path',
+    lastUpdatedText: "上次更新"
   })
 }
