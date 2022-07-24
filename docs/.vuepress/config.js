@@ -1,8 +1,8 @@
 const {
   defaultTheme
 } = require('vuepress')
-const { docsearchPlugin } = require('@vuepress/plugin-docsearch')
-const { searchPlugin } = require('@vuepress/plugin-search')
+// const { docsearchPlugin } = require('@vuepress/plugin-docsearch')
+// const { searchPlugin } = require('@vuepress/plugin-search')
 const { pwaPlugin } = require('@vuepress/plugin-pwa')
 module.exports = {
   // 基本路径配置
