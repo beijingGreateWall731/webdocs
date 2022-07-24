@@ -16,3 +16,34 @@ sdlkdfskdsdsfkj
 >dkdsdsk
 >dslkdsdskdskj
 dskdd
+::: tip
+这是提示内容
+:::
+
+::: warning
+这是警告
+:::
+::: danger
+这是危险
+:::
+::: details
+这是详情
+:::
+
+<CodeGroup>
+  <CodeGroupItem title = "js">
+
+  ```js:no-line-numbers
+  var num = 20
+  ```
+
+  </CodeGroupItem>
+
+  <CodeGroupItem title = "ts" active>
+
+  ```ts:no-line-numbers
+  var num:number = 20
+  ```
+
+  </CodeGroupItem>
+</CodeGroup>

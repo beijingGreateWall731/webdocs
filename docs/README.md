@@ -1,3 +1,37 @@
+---
+# 首页不显示导航栏
+navbar: false
+# 设置当前页面为 首页
+home: true
+# 首页图片
+heroImage: /imgs/logo.jpg
+# 首页夜间模式的图片
+heroImageDark: /imgs/44.png
+# 首页大标题
+heroText: 欢迎来到 不凡学院
+# 首页的标题
+tagline: 一家 踏实、负责、专业 的培训机构
+# 首页按钮
+actions:
+ - text: 快速开始
+   link: /html-docs/base.html
+   type: primary
+ - text: 课程介绍
+   link: /guide/getting-started.html
+   type: secondary
+# 首页特性列表
+features:
+ - title: 实用优先
+   details: 所有内容以当前热门的技术为主，以常见的前端展示效果为案例
+ - title: 深入原理
+   details: 授人以鱼不如授人以渔，了然
+ - title: 真实项目
+   details: 项目阶段，完全是企业级真实项目，UI设计稿，后台接口真实提供
+# 首页页脚
+footer: MIT Licensed | Copyright © 2022-present zhujinlong
+---
+
+
 [[toc]]
 
 # Hello VuePress
