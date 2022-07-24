@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as r,a as e,e as a}from"./app.518a6c25.js";const c={},o=e("h1",{id:"contributing",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#contributing","aria-hidden":"true"},"#"),a(" Contributing")],-1),i=[o];function s(_,d){return n(),r("div",null,i)}var h=t(c,[["render",s],["__file","contributing.html.vue"]]);export{h as default};

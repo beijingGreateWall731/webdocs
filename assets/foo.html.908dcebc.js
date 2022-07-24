@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-086c4f16","path":"/foo/foo.html","title":"foo/foo.md","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"dksddjsk","slug":"dksddjsk","children":[]}],"git":{"updatedTime":1658571462000,"contributors":[{"name":"zhujinlong","email":"1445824783@qq.com","commits":1}]},"filePathRelative":"foo/foo.md"}');export{e as data};

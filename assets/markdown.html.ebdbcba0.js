@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0978b044","path":"/guide/markdown.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1658403266000,"contributors":[{"name":"zhujinlong","email":"1445824783@qq.com","commits":1}]},"filePathRelative":"guide/markdown.md"}');export{e as data};
