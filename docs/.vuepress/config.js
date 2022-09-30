@@ -8,7 +8,7 @@ module.exports = {
   // 基本路径配置
   base: 'webdocs',
   lang: 'zh-CN',
-  title: '你好！ vuepress',
+  title: '不凡技术文档',
   description: 'web教程 前端教程 HTML HTML5 CSS CSS3 JavaScript js Vue ElementUI Vant React ',
   head: [
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
@@ -72,7 +72,9 @@ module.exports = {
           },
           {
             text: 'Vue3基础',
-            link: '/vue-docs/v3_base.md'
+            children:[
+              '/vite-docs/base.md'
+            ]
           },
           {
             text: '移动端',
@@ -177,11 +179,20 @@ module.exports = {
           text:'Vue3教程',
           collapsible:true,
           children:[
-            // '/vue-docs/base.md',
-            '/vue-docs/v3_base.md',
+           
+            '/vue-docs/v3_base.md'
           ]
         },
 
+      ],
+      "/vite-docs":[
+        {
+          text:'Vite教程',
+          collapsible:true,
+          children:[
+            "/vite-docs/base.md"
+          ]
+        }
       ],
       "/mobile-docs/":[
         {
@@ -224,9 +235,9 @@ module.exports = {
     // 404 页面中 返回首页链接的文字
     backToHome:'返回首页',
     toggleColorMode:'改变颜色模式',
-    themePlugins:{
+    // themePlugins:{
 
-    }
+    // }
   }),
   // 插件配置
   plugins: [

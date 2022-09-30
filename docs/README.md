@@ -36,7 +36,7 @@ footer: MIT Licensed | Copyright © 2022-present zhujinlong
 
 # Hello VuePress
 这是学习vuepress的第一步 搭建环境
-## 第二步 了解配置
+## 第二步 了解配置  text
 + 配置一
 + 配置二
 vuepress2 已经发布了 :tada:
